@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <meta charset="8">
+        <title>Insert Title of Webpage for Browser</title>
+        <link rel="stylesheet"> <!--Insert "href:FILE_NAME" to link CSS file-->
+    </head>
+
+    <body>
+        <header></header>
+        <nav></nav>
+
+        <main>
+            <!--HTML Comment-->
+            <h1>H1 Text</h1>
+            <h2>H2 Text</h2>
+            <h3>H3 Text</h3>
+            <h4>H4 Text</h4>
+            <h5>H5 Text</h5>
+
+            <p>
+                Paragraph Text: <b>Bold</b>, <i>Italics</i>, <u>Underline</u>, <s>Strikethrough</s>
+            </p>
+
+            <p><a href="Template.html">Link To A Local File</a></p> <!--Can use <p>, <img>, and more for housing links-->
+            <p><a href="Template.html" target="_blank">Link To A Local File (Opens in new page)</a></p>
+            <p><a href="#symbols">Link To In-File Bookmark (Ex: Symbols)</a></p>
+            <p><a href="mailto:insert@email.address">Link To Email Address</a></p>
+            <p><a href="tel:+1-555-555-5555">Link To Phone Number</a></p>
+
+            <br> <!--Break-->
+            <label>Label Text</label> <!--Technically labeling the next piece of code for this example-->
+            <hr> <!--Horizontal Rule-->
+            <p hidden></p> <!--To hide something-->
+
+            <div id="symbols"> <!--Dividing Content Into Sections-->
+                <p>&copy; : Copyright Symbol</p>
+                <p>&reg; : Registered Trademark Symbol</p>
+                <p>&euro; : Euro Symbol</p>
+                <p>&amp; : Ampersand Symbol</p>
+                <p>&lt; : Less-Than Symbol</p>
+                <p>&gt; : Greater-Than Symbol</p>
+                
+                <p>&#8470; : Numero Symbol</p>
+                <p>&#9475; : Vertical Line Symbol</p>
+                <p>&#9645; : White Rectangle Symbol</p>
+                <p>&#9608; : Full Block Symbol</p>
+                <p>&#9670; : Black Diamond Symbol</p>
+                <p>&#9733; : Black Star Symbol</p>
+                <p>&#9749; : Coffee Cup Symbol</p>
+                <p>&#9836; : Musical Note Symbol</p>
+
+                <p>&nbsp; : Nonbreaking Space</p>
+            </div>
+
+            <div id="lists">
+                <ul>
+                    <li>Unordered List Item #1</li>
+                    <li>Unordered List Item #2</li>
+                    <li>Unordered List Item #3</li>
+                </ul>
+
+                <ul style="list-style-type: square;">
+                    <li>Unordered List Item #1</li>
+                    <li>Unordered List Item #2</li>
+                    <li>Unordered List Item #3</li>
+                </ul>
+
+                <ul style="list-style-type: circle;">
+                    <li>Unordered List Item #1</li>
+                    <li>Unordered List Item #2</li>
+                    <li>Unordered List Item #3</li>
+                </ul>
+
+                <ol>
+                    <li>Ordered List Item #1</li>
+                    <li>Ordered List Item #2</li>
+                    <li>Ordered List Item #3</li>
+                </ol>
+
+                <ol style="list-style-type: upper-alpha;">
+                    <li>Ordered List Item #1</li>
+                    <li>Ordered List Item #2</li>
+                    <li>Ordered List Item #3</li>
+                </ol>
+
+                <ol style="list-style-type: lower-alpha;">
+                    <li>Ordered List Item #1</li>
+                    <li>Ordered List Item #2</li>
+                    <li>Ordered List Item #3</li>
+                </ol>
+
+                <ol style="list-style-type: upper-roman;">
+                    <li>Ordered List Item #1</li>
+                    <li>Ordered List Item #2</li>
+                    <li>Ordered List Item #3</li>
+                </ol>
+
+                <ol style="list-style-type: lower-roman;">
+                    <li>Ordered List Item #1</li>
+                    <li>Ordered List Item #2</li>
+                    <li>Ordered List Item #3</li>
+                </ol>
+
+                <dl>
+                    <dt>Description List Term #1</dt>
+                    <dd>Description List Definition #1</dd>
+                    <dt>Description List Term #2</dt>
+                    <dd>Description List Definition #2</dd>
+                    <dt>Description List Term #3</dt>
+                    <dd>Description List Definition #3</dd>
+                </dl>
+            </div>
+
+            <div id="table">
+                <table>
+                    <caption>Table Caption</caption>
+
+                    <thead>
+                        <th colspan="2" style="text-align: center;">Table Header Area</th> <!--rowspan for rows-->
+                    </thead>
+
+                    <tbody>
+                        <tr>
+                            <td>Table Row #1, Data #1</td>
+                            <td>Table Row #1, Data #2</td>
+                        </tr>
+
+                        <tr>
+                            <td>Table Row #2, Data #1</td>
+                            <td>Table Row #2, Data #2</td>
+                        </tr>
+                    </tbody>
+
+                    <tfooter>
+                        <tr>
+                            <td colspan="2" style="text-align: center;">Table Footer Area</td>
+                        </tr>
+                    </tfooter>
+                </table>
+            </div>
+
+            <div id="inputs"> <!--Add id / value attributes to call in JavaScript-->
+                <p>Text Input: <input type="text"></p>
+                <p>Text Input (with size limit): <input type="text" size="10"></p>
+                <p>Text Input (with input limit): <input type="text" maxlength="10"></p>
+                <p>Text Input (with input requirement): <input type="text" minlength="10"></p>
+                <p>Number Input: <input type="number"></p>
+                <p>Email Input: <input type="email"></p>
+                <p>Phone Input: <input type="tel"></p>
+                <p>Password Input: <input type="password"></p>
+                <p>URL Input: <input type="url"></p>
+                <p>Search Input: <input type="search"></p>
+                <p>Date Input: <input type="date"></p>
+                <p>Date & Time Input (with timezone): <input type="datetime"></p>
+                <p>Date & Time Input (without timezone): <input type="datetime-local"></p>
+                <p>Time Input (without timezone): <input type="time"></p> <!--week or month too, but not supported by all browsers-->
+                <p>Color Input: <input type="color"></p>
+                <p>Checkbox: <input type="checkbox"></p>
+                <p>Checkbox (start as checked): <input type="checkbox" checked></p>
+                <p>Radio Option #1: <input type="radio" name="radio" value="radio1"></p>
+                <p>Radio Option #2: <input type="radio" name="radio" value="radio2"></p>
+                <p>Radio Option #3: <input type="radio" name="radio" value="radio3"></p>
+                <p>Select Option: 
+                    <select>
+                        <option value="1">Select Option #1</option>
+                        <option value="2">Select Option #2</option>
+                        <option value="3">Select Option #3</option>
+                    </select>
+                </p>
+                <p>Range Option: <input type="range" min="1" max="10"></p>
+                <p>File Upload: <input type="file"></p>
+                <p>Text Area:<textarea rows="2" placeholder="Placeholder Text"></textarea></p> <!--columns available in some browsers-->
+                <p>Reset Button: <input type="reset"></p>
+                <p>Submit Button: <input type="submit"></p>
+                <p><button>Regular Button</button></p>
+                <p><button onclick="alert('Triggered Message')">Button Triggers Message/Action</button></p>
+            </div>
+        </main>
+
+        <section></section>
+        <article></article>
+        <aside></aside>
+        <details hidden></details>
+        <footer></footer>
+        <summary></summary> <!--Not supported by all browsers-->
+        <time></time>
+    </body>
+</html>
