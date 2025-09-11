@@ -12,6 +12,6 @@
 
 #### Other notes:
 * This template contains many components that can be customized and serves as an easy starting point for building dynamic interaction systems.
-* Multiple Interactable types can be created by implementing the IInteractable interface. Each type can have unique interaction logic.
+* Multiple Interactable types can be created by implementing the IInteractable interface. Each type can have unique interaction logic (Template examples: InteractableType1 and InteractableType2 scripts).
 ---
 #### Template developed by Connor Hager | Last updated on January 5, 2025
