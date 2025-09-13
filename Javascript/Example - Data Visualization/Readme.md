@@ -1,6 +1,6 @@
 ## Data Visualization with JavaScript
 
-#### How to Download and View
+### How to Download and View
 **Why you need a web server**: Modern browsers block loading local JSON files directly due to CORS security restrictions. A local web server resolves this.
 
 #### Option A: Using Python
