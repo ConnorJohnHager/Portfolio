@@ -4,6 +4,7 @@
 ### Why you need a web server to view: 
 Modern browsers block loading local JSON files directly due to CORS security restrictions. A local web server resolves this.
 
+### Steps for Viewing
 1. Download all project files to a folder
 
 #### Option A: Using Python
