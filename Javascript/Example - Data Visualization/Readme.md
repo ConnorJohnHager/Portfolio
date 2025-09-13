@@ -1,5 +1,6 @@
 ## Data Visualization with JavaScript
-
+#### Coding examples include HTML, JavaScript, D3.min.js, and JSON
+---
 ### How to Download and View
 **Why you need a web server**: Modern browsers block loading local JSON files directly due to CORS security restrictions. A local web server resolves this.
 
