@@ -4,4 +4,4 @@
 ### View the project live with the following link:
 [https://connorjohnhager.github.io/JavaScript_DataVisualizationAndSorting/index.html](https://connorjohnhager.github.io/JavaScript_DataVisualizationAndSorting/index.html "Connor Hager - JavaScript - Data Visualization and Sorting")
 
-#### Developed by Connor Hager in Fall 2023
+#### Developed by Connor Hager in Fall 2023 
