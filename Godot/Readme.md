@@ -1,6 +1,5 @@
-## Game Development Examples with Godot
+## Game Highlights
 ---
-### View the project live with the following link:
-[https://connorjohnhager.github.io/JavaScript_DataVisualizationAndSorting/index.html](https://connorjohnhager.github.io/JavaScript_DataVisualizationAndSorting/index.html "Connor Hager - JavaScript - Data Visualization and Sorting")
-
+### [Undergrowth](https://connorhager.itch.io/undergrowth "Undergrowth on Itch.io"): 2D Metroidvania
+---
 #### Visit my [Itch.io page](https://connorhager.itch.io/ "Connor Hager - Itch.io") for more examples.
