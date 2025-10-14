@@ -7,7 +7,7 @@
 
 **Technical Achievements:**
 * Multi-variable data persistence across game sessions, including inventory, world progression, and player upgrades.
-* Inventory system with item descriptions, use / sell process for consumables, permanent items granting bonuses, and additional shop system.
+* Inventory system with item descriptions, use / sell process for consumables, permanent items granting bonuses, and shop system.
 * Complex and reactive NPC behavior added to the final boss. 
 
 ---

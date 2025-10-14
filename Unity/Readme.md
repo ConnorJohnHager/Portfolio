@@ -3,7 +3,7 @@
 ### [Fauna Frenzy](https://connorhager.itch.io/fauna-frenzy "Fauna Frenzy on Itch.io")
 **Short-Form Survival Game | Solo Development | [Play on Itch.io →](https://connorhager.itch.io/fauna-frenzy)**
 
-> *Strategic top-down survival game where the player tames or defeats wildlife through tactical item management to ultimately challenge the final boss*
+> *Top-down survival game where the player tames or defeats wildlife through tactical item management to challenge the final boss*
 
 **Technical Achievements:**
 * Item-based creature interaction with species-specific preferences and dual-purpose mechanics (defeat vs. tame).
