@@ -3,7 +3,7 @@
 ### [Gecko Farm Insurance](https://connorhager.itch.io/gecko-farm-insurance "Gecko Farm Insurance on Itch.io")
 **Micro Farm Simulator | Solo Development | [Play on Itch.io →](https://connorhager.itch.io/gecko-farm-insurance)**
 
-> *Micro farm simulator where the player completes tasks, manages their inventory, and unlocks crops to progress.*
+> *Cozy farm simulator where the player completes tasks, manages their inventory, and unlocks crops to progress.*
 
 **Technical Achievements:**
 * Task-driven quest system with task-dependent dialogue and dynamic objectives, including main tasks from Farmer Pete and a late-game side quest featuring the mysterious lake-dwelling squid.
