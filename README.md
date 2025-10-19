@@ -2,7 +2,7 @@
 
 Welcome to my game development portfolio! I specialize in Unity and Godot with experience in systems programming, gameplay mechanics, and solo/team project development.
 
----
+<br>
 
 ## 🎮 Game Development Highlights
 
@@ -23,13 +23,13 @@ Welcome to my game development portfolio! I specialize in Unity and Godot with e
 
 **[View all projects on my Itch.io page →](https://connorhager.itch.io/)**
 
----
+<br>
 
 ## 🛠️ Reusable Code Templates
 
 This repository includes free-to-use coding templates for common game systems. Each template contains detailed documentation with implementation notes for integration into your own projects. Several templates are based on tutorials from developers like CodeMonkey and iHeartGameDev—credit and video links are included in each template's documentation.
 
---- 
+<br>
 
 ## 📫 Connect With Me
 
