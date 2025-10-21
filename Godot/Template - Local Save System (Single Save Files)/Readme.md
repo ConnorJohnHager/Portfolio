@@ -1,7 +1,7 @@
 ## Local Save System Template for Single Save Files
 #### Generated in collaboration with Amith Bhaskara
 --- 
-**GameManager**: OPTIONAL: The global autoload script that can help determine when to trigger save, load, and reset operations.
+**GameManager**: *Optional* - The global autoload script that can help determine when to trigger save, load, and reset operations.
 
 **PlayerData**: The global autoload script that manages all game data structures and handles getting/setting save data.
 
