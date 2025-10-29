@@ -36,17 +36,20 @@ func SetData(data: Dictionary):
 		if key == "SavedObjects":
 			for each in data["SavedObjects"]:
 				var object = ObjectToSave.new()
-				object.info = data["SavedObjects"][each]
+				for infoKey in data["SavedObjects"][each].keys():
+					object.info[infoKey] = data["SavedObjects"][each][infoKey]
 				savedObjects.append(object)
 		elif key == "GridTiles":
 			for each in data["GridTiles"]:
 				var tile = GridTileToSave.new()
-				tile.info = data["GridTiles"][each]
+				for infoKey in data["GridTiles"][each].keys():
+					tile.info[infoKey] = data["GridTiles"][each][infoKey]
 				tile.info["Location"] = Vector2i(tile.info["LocationX"], tile.info["LocationY"])
 				
 				for each1 in gridTiles:
 					if each1.info["Name"] == tile.info["Name"]:
-						each1.info = tile.info
+						for infoKey in tile.info.keys():
+							each1.info[infoKey] = tile.info[infoKey]
 		else:
 			playerData[key] = data[key]
 
