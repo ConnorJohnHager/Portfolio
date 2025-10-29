@@ -29,4 +29,4 @@
 	
 	Complex data types like Vector2i, Vector3, Color, etc. must be broken down into their component values (as demonstrated in `GridTileToSave` where Location is stored as separate LocationX and LocationY values).
 ---
-#### Template developed by Connor Hager | Last updated on October 21, 2025
+#### Template developed by Connor Hager | Last updated on October 29, 2025

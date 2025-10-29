@@ -49,7 +49,7 @@ func SetData(data: Dictionary):
 				for each1 in gridTiles:
 					if each1.info["Name"] == tile.info["Name"]:
 						for infoKey in tile.info.keys():
-							each1.info[infoKey] = tile.info[infoKey]
+							each1.info[infoKey] = tile.info[infoKey] 
 		else:
 			playerData[key] = data[key]
 
