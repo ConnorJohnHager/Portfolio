@@ -4,6 +4,12 @@ Welcome! This portfolio showcases a selection of programming projects and techni
 
 <br>
 
+## 🌐 WordPress Highlights
+
+### [tommythetourguide.com](https://tommythetourguide.com/ "Tommy the Tour Guide - Midcentury Modern Architecture Tours in Palm Springs")
+
+<br>
+
 ## 🎮 Game Development Highlights
 
 ### [Undergrowth](https://connorhager.itch.io/undergrowth) | Godot

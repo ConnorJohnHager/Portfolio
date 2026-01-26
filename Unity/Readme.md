@@ -22,7 +22,7 @@
 
 #### Visit my [Itch.io page](https://connorhager.itch.io/ "Connor Hager - Itch.io") for all game examples.
 
----
+<br>
 
 ## 📖 Start Learning Unity for Free!
 
