@@ -16,7 +16,7 @@
 
 ## 📖 Start Learning Godot for Free!
 
-> *Any resource or content creator listed below is recommended based on my personal experience learning Unity development. All recommendations focus solely on the quality and accessibility of their free educational materials, and do not constitute an endorsement of any creator's personal views, nor a suggestion to purchase their paid content.*
+> *Any resource or content creator listed below is recommended based on my personal experience learning Godot development. All recommendations focus solely on the quality and accessibility of their free educational materials, and do not constitute an endorsement of any creator's personal views, nor a suggestion to purchase their paid content.*
 
 ### Beginner Resources in Recommended Order
 * VIDEO PLAYLIST: [GDScript Fundamentals Tutorial Series with Godot Tutorials](https://www.youtube.com/watch?v=itKLmCwGeNs&list=PLJ690cxlZTgL4i3sjTPRQTyrJ5TTkYJ2_ "GDScript Fundamentals Tutorial Series with Godot Tutorials")
