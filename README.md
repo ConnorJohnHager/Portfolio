@@ -8,6 +8,8 @@ Welcome! This portfolio showcases a selection of programming projects and techni
 
 ### [tommythetourguide.com](https://tommythetourguide.com/ "Tommy the Tour Guide - Midcentury Modern Architecture Tours in Palm Springs")
 
+> *A clean, modern, mobile-friendly website for Tommy’s midcentury modern architecture tours in Palm Springs, designed with a focus on readability, accessibility, and streamlining client intakes.*
+
 <br>
 
 ## 🎮 Game Development Highlights
