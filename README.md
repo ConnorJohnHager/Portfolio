@@ -1,6 +1,6 @@
-# Connor Hager - Game Developer Portfolio
+# Connor Hager - Developer Portfolio
 
-Welcome to my game development portfolio! I specialize in Unity and Godot with experience in systems programming, gameplay mechanics, and solo/team project development.
+Welcome! This portfolio showcases a selection of programming projects and technical work across different tools and technologies, highlighting my approach to problem-solving, system design, and development.
 
 <br>
 
@@ -25,9 +25,9 @@ Welcome to my game development portfolio! I specialize in Unity and Godot with e
 
 <br>
 
-## 🛠️ Reusable Code Templates
+## 🛠️ Reusable Code Templates and Learning Resources
 
-This repository includes free-to-use coding templates for common game systems. Each template contains detailed documentation with implementation notes for integration into your own projects. Several templates are based on tutorials from developers like CodeMonkey and iHeartGameDev—credit and video links are included in each template's documentation.
+This repository also offers free, reusable code templates and other resources for learning new programming languages and development tools at no cost. Each template includes documentation, implementation notes, and links to relevant resources to support learning and integration. My goal is to make development more accessible for anyone who wants to create, experiment, or build their own projects to share with others.
 
 <br>
 
