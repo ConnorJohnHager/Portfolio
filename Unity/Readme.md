@@ -39,7 +39,7 @@
 * VIDEO/PROJECT: [Create Kitchen Chaos 3D with Code Monkey](https://www.youtube.com/watch?v=AmGSEH7QcDg "Create Kitchen Chaos 3D with Code Monkey")
 * VIDEO/PROJECT: [Add Multiplayer Feature to Kitchen Chaos 3D with Code Monkey](https://www.youtube.com/watch?v=7glCsF9fv3s "Add Multiplayer Feature to Kitchen Chaos with Code Monkey")
 
-### Content and Creator Recommendations for More Tutorials
+### Content Recommendations for More Tutorials
 
 * [Brackeys](https://www.youtube.com/@Brackeys "Brackeys - YouTube") 
 * [Code Monkey](https://www.youtube.com/@CodeMonkeyUnity "CodeMonkey - YouTube")
