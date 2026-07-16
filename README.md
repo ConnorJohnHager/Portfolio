@@ -33,12 +33,6 @@ Welcome! This portfolio showcases a selection of programming projects and techni
 
 <br>
 
-## 🛠️ Reusable Code Templates and Learning Resources
-
-This repository also offers free, reusable code templates and other resources for learning new programming languages and development tools at no cost. Each template includes documentation, implementation notes, and links to relevant resources to support learning and integration. My goal is to make development more accessible for anyone who wants to create, experiment, or build their own projects to share with others.
-
-<br>
-
 ## 📫 Connect With Me
 
 **Email:** connorhager12@gmail.com  
