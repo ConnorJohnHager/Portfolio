@@ -4,18 +4,6 @@ Welcome! This portfolio showcases a selection of programming projects and techni
 
 <br>
 
-## 🌐 Website Highlights
-
-### [connorjohnhager.github.io](https://connorjohnhager.github.io/ "Connor Hager - Portfolio Website") | Hard-Coded GitHub Pages
-
-> *A visual showcase of my professional portfolio, built from scratch using HTML, CSS, and JavaScript, featuring projects in game design, web design, and digital marketing through a responsive, accessible, and easy-to-navigate experience. [View the source code here.](https://github.com/ConnorJohnHager/ConnorJohnHager.github.io)*
-
-### [tommythetourguide.com](https://tommythetourguide.com/ "Tommy the Tour Guide - Midcentury Modern Architecture Tours in Palm Springs") | WordPress
-
-> *A clean, modern, mobile-friendly website for Tommy’s midcentury modern architecture tours in Palm Springs, designed with a focus on readability, accessibility, and streamlining client intakes.*
-
-<br>
-
 ## 🎮 Game Development Highlights
 
 ### [Undergrowth](https://connorhager.itch.io/undergrowth) | Godot
@@ -34,6 +22,18 @@ Welcome! This portfolio showcases a selection of programming projects and techni
 > *Top-down survival game with creature taming mechanics, state machine-driven AI, and multi-room progression systems.*
 
 **[View all projects on my Itch.io page →](https://connorhager.itch.io/)**
+
+<br>
+
+## 🌐 Website Highlights
+
+### [connorjohnhager.github.io](https://connorjohnhager.github.io/ "Connor Hager - Portfolio Website") | Hard-Coded GitHub Pages
+
+> *A visual showcase of my professional portfolio, built from scratch using HTML, CSS, and JavaScript, featuring projects in game design, web design, and digital marketing through a responsive, accessible, and easy-to-navigate experience. [View the source code here.](https://github.com/ConnorJohnHager/ConnorJohnHager.github.io)*
+
+### [tommythetourguide.com](https://tommythetourguide.com/ "Tommy the Tour Guide - Midcentury Modern Architecture Tours in Palm Springs") | WordPress
+
+> *A clean, modern, mobile-friendly website for Tommy’s midcentury modern architecture tours in Palm Springs, designed with a focus on readability, accessibility, and streamlining client intakes.*
 
 <br>
 
