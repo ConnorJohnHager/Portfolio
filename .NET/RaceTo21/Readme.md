@@ -1,12 +1,16 @@
 ## Race To 21
 
-> Last updated: August 17, 2026
+I built this game as a C# desktop application using the .NET platform in Visual Studio. The project uses .NET for the application framework and runtime, while the UI was built with WPF and XAML.
+
+> App last updated: August 17, 2026
 
 ### Access Instructions
 
 - Download RaceTo21_Build.zip
 - Extract the contents of the ZIP file
 - Open the extracted folder and click Setup.exe to play
+
+> This desktop application currently only supports Windows devices
 
 <br>
 
