@@ -1,4 +1,4 @@
-## Race To 21
+## 🎮 Race To 21
 
 I built this game as a C# desktop application using the .NET platform in Visual Studio. The project uses .NET for the application framework and runtime, while the UI was built with WPF and XAML.
 
