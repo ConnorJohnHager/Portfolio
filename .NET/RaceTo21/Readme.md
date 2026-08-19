@@ -12,8 +12,6 @@ I built this game as a C# desktop application using the .NET platform in Visual 
 
 > This desktop application currently only supports Windows devices
 
-<br>
-
 ### Potential Future Updates
 
 - Continue until one player is left, players are removed after their banks reach 0
